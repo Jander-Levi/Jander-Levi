@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Jander Levih!
+# 👋 Olá, eu sou o Jander Levi!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Iniciando minha jornada no **Desenvolvimento Web**  
