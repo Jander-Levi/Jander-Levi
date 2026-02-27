@@ -1,7 +1,7 @@
 # 🚀 Jander Levi | Full Stack Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jander+Levi;Full+Stack+Developer;Análise+e+Desenvolvimento+de+Sistemas;Construindo+soluções+com+propósito+⚡">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jander+Levi;Full+Stack+Developer;Estudante+de+ADS;Construindo+soluções+com+código+⚡">
 </p>
 
 <p align="center">
@@ -13,88 +13,73 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor **Full Stack**, estudante de **Análise e Desenvolvimento de Sistemas**, com experiência na construção de aplicações web modernas, responsivas e bem estruturadas.
+Sou Desenvolvedor **Full Stack**, estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir aplicações web **modernas, responsivas e escaláveis**.
 
-Atuo no desenvolvimento **Front-end e Back-end**, buscando sempre:
-
-- Código limpo e organizado  
-- Boas práticas de desenvolvimento  
-- Estrutura escalável  
-- Foco total na experiência do usuário  
-- Integração eficiente entre interface e servidor  
-
-Tenho como objetivo contribuir em projetos reais, agregando valor técnico e evoluindo constantemente como profissional.
+Gosto de atuar do **front ao back**, com atenção em:
+- organização e qualidade do código
+- boas práticas e padronização
+- experiência do usuário
+- APIs bem estruturadas e integrações eficientes
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🧩 Stack
 
 ### 💻 Front-end
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C"/>
-</p>
+- HTML5, CSS3
+- JavaScript
+- React (componentes, hooks)
 
 ### ⚙️ Back-end
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=00FF9C"/>
-</p>
+- Node.js
+- Express
+- APIs REST
 
 ### 🗄️ Banco de Dados
+- MySQL
+- MongoDB
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF9C"/>
-</p>
-
-### 🔧 Ferramentas & Versionamento
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00FF9C"/>
-</p>
+### 🔧 Ferramentas
+- Git & GitHub
+- VS Code
 
 ---
 
-## 📚 Em constante evolução
+## 📚 Estudando agora
 
-- Arquitetura de aplicações Full Stack  
-- APIs REST  
-- Autenticação e autorização  
-- Estruturação de projetos escaláveis  
-- Clean Code e boas práticas  
+- Arquitetura Full Stack
+- Autenticação (JWT / sessions)
+- Integração Front + API
+- Modelagem de dados e CRUD completo
+- Clean Code e boas práticas
 
 ---
 
-## 🎯 Objetivo Profissional
+## 🎯 Objetivo
 
-Atuar como Desenvolvedor **Full Stack**, participando do ciclo completo de desenvolvimento — da concepção da interface até a estruturação do back-end e banco de dados — contribuindo com soluções eficientes, organizadas e escaláveis.
+Atuar como **Desenvolvedor Full Stack**, contribuindo com projetos reais e entregando soluções bem estruturadas, com foco em qualidade, performance e escalabilidade.
 
 ---
 
 ## 🧠 Soft Skills
 
-- Pensamento lógico e analítico  
-- Resolução de problemas  
-- Proatividade  
-- Comunicação clara  
-- Trabalho em equipe  
-- Abertura a feedback  
+- Pensamento lógico e analítico
+- Proatividade e aprendizado rápido
+- Resolução de problemas
+- Comunicação clara
+- Colaboração e abertura a feedback
 
 ---
 
-## 📊 GitHub Stats
+## 🏷️ GitHub (badges)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jander-Levi&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jander-Levi&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img src="https://img.shields.io/github/followers/Jander-Levi?label=Seguidores&style=for-the-badge&logo=github&color=00FF9C&logoColor=black" />
+  <img src="https://img.shields.io/github/stars/Jander-Levi?label=Stars&style=for-the-badge&logo=github&color=00FF9C&logoColor=black" />
+  <img src="https://img.shields.io/badge/Repos-Repositórios-00FF9C?style=for-the-badge&logo=github&logoColor=black" />
 </p>
+
+> Dica: os badges acima são mais “leves” e quase sempre funcionam melhor do que cards de stats.
 
 ---
 
@@ -115,5 +100,5 @@ Atuar como Desenvolvedor **Full Stack**, participando do ciclo completo de desen
 ---
 
 <p align="center">
-  <i>Transformando ideias em soluções através do código.</i>
+  <i>“Transformando ideias em soluções através do código.”</i>
 </p>
