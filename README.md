@@ -1,77 +1,90 @@
-# 🚀 Jander Levi | Full Stack Developer
+# Jander Levi | Desenvolvedor Full Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Jander+Levi;Full+Stack+Developer;Estudante+de+ADS;Construindo+soluções+com+código+⚡">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EM+EVOLUÇÃO-00FF9C?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FOCO-FULL--STACK-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00FF9C?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ATUAÇÃO-FULL%20STACK-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C"/>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sumário
 
-Sou Desenvolvedor **Full Stack**, estudante de **Análise e Desenvolvimento de Sistemas**, focado em construir aplicações web **modernas, responsivas e escaláveis**.
-
-Gosto de atuar do **front ao back**, com atenção em:
-- organização e qualidade do código
-- boas práticas e padronização
-- experiência do usuário
-- APIs bem estruturadas e integrações eficientes
+1. [Resumo Executivo](#resumo-executivo)
+2. [Perfil Profissional](#perfil-profissional)
+3. [Competências Técnicas](#competências-técnicas)
+4. [Aprimoramento Técnico em Andamento](#aprimoramento-técnico-em-andamento)
+5. [Objetivo Profissional](#objetivo-profissional)
+6. [Competências Comportamentais](#competências-comportamentais)
+7. [Indicadores no GitHub](#indicadores-no-github)
+8. [Contato Profissional](#contato-profissional)
 
 ---
 
-## 🧩 Stack
+## Resumo Executivo
 
-### 💻 Front-end
-- HTML5, CSS3
+Desenvolvedor Full Stack em formação acadêmica na área de Análise e Desenvolvimento de Sistemas, com direcionamento para o desenvolvimento de aplicações web modernas, escaláveis e orientadas a desempenho.
+
+---
+
+## Perfil Profissional
+
+Atuação abrangente em todas as etapas do ciclo de desenvolvimento de software, com foco em:
+- padronização e qualidade de código
+- adoção consistente de boas práticas de engenharia
+- experiência do usuário e usabilidade
+- modelagem e integração eficiente de serviços e APIs
+
+---
+
+## Competências Técnicas
+
+### Front-end
+- HTML5 e CSS3
 - JavaScript
-- React (componentes, hooks)
+- React (arquitetura baseada em componentes e hooks)
 
-### ⚙️ Back-end
+### Back-end
 - Node.js
 - Express
-- APIs REST
+- Desenvolvimento de APIs REST
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - MySQL
 - MongoDB
 
-### 🔧 Ferramentas
-- Git & GitHub
-- VS Code
+### Ferramentas e Ambiente
+- Git e GitHub
+- Visual Studio Code
 
 ---
 
-## 📚 Estudando agora
+## Aprimoramento Técnico em Andamento
 
 - Arquitetura Full Stack
-- Autenticação (JWT / sessions)
-- Integração Front + API
-- Modelagem de dados e CRUD completo
-- Clean Code e boas práticas
+- Autenticação e controle de sessão (JWT e Sessions)
+- Integração entre interfaces front-end e serviços de API
+- Modelagem de dados e operações CRUD completas
+- Clean Code e práticas de engenharia de software
 
 ---
 
-## 🎯 Objetivo
+## Objetivo Profissional
 
-Atuar como **Desenvolvedor Full Stack**, contribuindo com projetos reais e entregando soluções bem estruturadas, com foco em qualidade, performance e escalabilidade.
-
----
-
-## 🧠 Soft Skills
-
-- Pensamento lógico e analítico
-- Proatividade e aprendizado rápido
-- Resolução de problemas
-- Comunicação clara
-- Colaboração e abertura a feedback
+Atuar como Desenvolvedor Full Stack em iniciativas de impacto, contribuindo com soluções tecnicamente sólidas, sustentáveis e alinhadas a critérios de qualidade, desempenho e escalabilidade.
 
 ---
 
-## 🏷️ GitHub (badges)
+## Competências Comportamentais
+
+- pensamento analítico e estruturado
+- proatividade e compromisso com aprendizado contínuo
+- resolução de problemas com abordagem sistemática
+- comunicação clara, objetiva e profissional
+- colaboração efetiva e abertura a feedback qualificado
+
+---
+
+## Indicadores no GitHub
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Jander-Levi?label=Seguidores&style=for-the-badge&logo=github&color=00FF9C&logoColor=black" />
@@ -79,11 +92,9 @@ Atuar como **Desenvolvedor Full Stack**, contribuindo com projetos reais e entre
   <img src="https://img.shields.io/badge/Repos-Repositórios-00FF9C?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
-> Dica: os badges acima são mais “leves” e quase sempre funcionam melhor do que cards de stats.
-
 ---
 
-## 🌐 Contato
+## Contato Profissional
 
 <p align="center">
   <a href="https://github.com/Jander-Levi">
@@ -93,12 +104,12 @@ Atuar como **Desenvolvedor Full Stack**, contribuindo com projetos reais e entre
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
   </a>
   <a href="mailto:janderlevih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+    <img src="https://img.shields.io/badge/E-mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>“Transformando ideias em soluções através do código.”</i>
+  <i>Excelência técnica, responsabilidade profissional e compromisso com resultados consistentes.</i>
 </p>
