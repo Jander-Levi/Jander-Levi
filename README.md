@@ -1,8 +1,13 @@
 # Jander Levi | Desenvolvedor Full Stack
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF9C&size=28&center=true&vCenter=true&width=980&lines=Engenharia+de+Software+com+Foco+em+Resultados;Desenvolvimento+Full+Stack+Orientado+a+Valor;Soluções+Web+Escaláveis+e+Sustentáveis" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00FF9C?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/ATUAÇÃO-FULL%20STACK-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/PERFIL-CORPORATIVO-1f6feb?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
@@ -16,7 +21,8 @@
 5. [Objetivo Profissional](#objetivo-profissional)
 6. [Competências Comportamentais](#competências-comportamentais)
 7. [Indicadores no GitHub](#indicadores-no-github)
-8. [Contato Profissional](#contato-profissional)
+8. [Tecnologias em Destaque](#tecnologias-em-destaque)
+9. [Contato Profissional](#contato-profissional)
 
 ---
 
@@ -55,6 +61,21 @@ Atuação abrangente em todas as etapas do ciclo de desenvolvimento de software,
 ### Ferramentas e Ambiente
 - Git e GitHub
 - Visual Studio Code
+
+---
+
+## Tecnologias em Destaque
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Proficiência-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-Componentização-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-Back--end-0D1117?style=for-the-badge&logo=node.js&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/APIs-REST-0D1117?style=for-the-badge&logo=fastapi&logoColor=00FF9C" />
+</p>
 
 ---
 
@@ -111,5 +132,5 @@ Atuar como Desenvolvedor Full Stack em iniciativas de impacto, contribuindo com 
 ---
 
 <p align="center">
-  <i>Excelência técnica, responsabilidade profissional e compromisso com resultados consistentes.</i>
+  <i>Excelência técnica, postura corporativa e compromisso contínuo com resultados mensuráveis.</i>
 </p>
