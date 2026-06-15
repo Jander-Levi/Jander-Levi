@@ -17,7 +17,7 @@
 Olá! Sou um **Desenvolvedor Full Stack Jr** apaixonado por tecnologia. Atualmente, sou iniciante na área de desenvolvimento e dedico a maior parte do meu tempo para **aprender e praticar** diariamente. Meu foco principal é construir experiências web completas, do frontend ao backend, enquanto aprimoro minhas habilidades de código limpo e boas práticas de engenharia de software.
 
 - 🔭 **O que eu faço:** Construo projetos práticos para solidificar meus conhecimentos em Desenvolvimento Web.
-- 🌱 **O que estou aprendendo:** Frameworks modernos do ecossistema JavaScript (React, Node.js), bancos de dados (MongoDB, MySQL) e arquitetura de sistemas.
+- 🌱 **O que estou aprendendo:** Frameworks e linguagens modernas para Front-end e Back-end (React, PHP, Node.js), bancos de dados (MongoDB, MySQL) e ambientes de desenvolvimento local (XAMPP).
 - 🎯 **Meu objetivo:** Conquistar minha primeira oportunidade profissional na área de tecnologia e evoluir na minha carreira como desenvolvedor.
 - 💡 **Filosofia:** Acredito que a prática e a constância são os melhores caminhos para a excelência técnica.
 
@@ -38,11 +38,11 @@ Tenho estudado e aplicado as seguintes tecnologias nos meus projetos recentes:
 
 ### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express&theme=dark" />
 </p>
 
-- **Linguagens e Frameworks:** Node.js, Express
-- **Arquitetura:** Criação e consumo de APIs RESTful
+- **Linguagens e Frameworks:** PHP, Node.js, Express
+- **Arquitetura:** Criação e consumo de APIs RESTful, desenvolvimento de aplicações server-side
 
 ### 🗄️ Banco de Dados
 <p align="left">
@@ -52,12 +52,13 @@ Tenho estudado e aplicado as seguintes tecnologias nos meus projetos recentes:
 - **Relacional:** MySQL
 - **NoSQL:** MongoDB
 
-### 🔧 Ferramentas
+### 🔧 Ferramentas e Ambientes
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,xampp,postman,figma&theme=dark" />
 </p>
 
 - **Versionamento & Deploy:** Git, GitHub
+- **Ambiente Local:** XAMPP (Apache, MySQL, PHP)
 - **Edição & Testes:** VS Code, Postman
 - **Design UI/UX:** Figma
 
