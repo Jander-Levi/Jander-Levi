@@ -5,68 +5,87 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-00FF9C?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/ATUAÇÃO-FULL%20STACK%20JR-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/PERFIL-ESTUDANTE/INICIANTE-1f6feb?style=for-the-badge&logo=book&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-00FF9C?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Atuação-Full%20Stack%20Jr-0D1117?style=for-the-badge&logo=react&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Perfil-Estudante/Iniciante-1f6feb?style=for-the-badge&logo=book&logoColor=white"/>
 </p>
 
 ---
 
 ## 📖 Sobre Mim
 
-Olá! Sou um **Desenvolvedor Full Stack Jr** apaixonado por tecnologia. Atualmente, sou iniciante na área de desenvolvimento e dedico a maior parte do meu tempo para **aprender e praticar** diariamente. Meu foco principal é construir experiências web completas, do frontend ao backend, enquanto aprimoro minhas habilidades de código limpo e boas práticas de engenharia de software.
+Olá! Sou o **Jander Levi**, um Desenvolvedor Full Stack Júnior em constante evolução. Minha jornada é movida pela curiosidade e pela vontade de transformar ideias em aplicações funcionais e eficientes.
 
-- 🔭 **O que eu faço:** Construo projetos práticos para solidificar meus conhecimentos em Desenvolvimento Web.
-- 🌱 **O que estou aprendendo:** Frameworks e linguagens modernas para Front-end e Back-end (React, PHP, Node.js), bancos de dados (MongoDB, MySQL) e ambientes de desenvolvimento local (XAMPP).
-- 🎯 **Meu objetivo:** Conquistar minha primeira oportunidade profissional na área de tecnologia e evoluir na minha carreira como desenvolvedor.
-- 💡 **Filosofia:** Acredito que a prática e a constância são os melhores caminhos para a excelência técnica.
+Atualmente, foco meus estudos na criação de ecossistemas web completos, priorizando a **escritura de código limpo**, a **responsividade** e a **experiência do usuário (UX)**. Acredito que a constância nos estudos e a prática diária são as chaves para a excelência técnica.
+
+- 🔭 **Foco Atual:** Desenvolvimento de projetos práticos para solidificar conceitos de Front-end e Back-end.
+- 🌱 **Aprendizado:** Aprofundando-me em frameworks modernos, arquitetura de APIs e bancos de dados.
+- 🎯 **Objetivo:** Inserção no mercado profissional para contribuir com projetos reais e evoluir como engenheiro de software.
+- 💡 **Mindset:** *Aprendizado contínuo e resiliência.*
 
 ---
 
 ## 🛠️ Competências Técnicas
 
-Tenho estudado e aplicado as seguintes tecnologias nos meus projetos recentes:
+Sigo explorando e aplicando as seguintes tecnologias para construir soluções robustas:
 
 ### 🖥️ Front-end
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
 </p>
 
-- **Linguagens Base:** HTML5, CSS3, JavaScript (ES6+)
-- **Bibliotecas/Frameworks:** React (Hooks e Componentização)
-- **Design:** Criação de interfaces responsivas e UX
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libs:** React.js (Hooks, Context API, Componentização)
+- **Design:** Interfaces Responsivas, Mobile-First, Figma
 
 ### ⚙️ Back-end
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,nodejs,express&theme=dark" />
 </p>
 
-- **Linguagens e Frameworks:** PHP, Node.js, Express
-- **Arquitetura:** Criação e consumo de APIs RESTful, desenvolvimento de aplicações server-side
+- **Linguagens/Ambientes:** Node.js, PHP
+- **Frameworks:** Express.js
+- **Arquitetura:** APIs RESTful, Middleware, Server-side Rendering
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados & Ferramentas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
 </p>
 
-- **Relacional:** MySQL
-- **NoSQL:** MongoDB
-
-### 🔧 Ferramentas e Ambientes
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,xampp,postman,figma&theme=dark" />
-</p>
-
-- **Versionamento & Deploy:** Git, GitHub
-- **Ambiente Local:** XAMPP (Apache, MySQL, PHP)
-- **Edição & Testes:** VS Code, Postman
-- **Design UI/UX:** Figma
+- **Bancos de Dados:** MySQL (Relacional), MongoDB (NoSQL)
+- **Versionamento:** Git, GitHub
+- **Produtividade:** VS Code, Postman, XAMPP
 
 ---
 
-## 📊 Dashboard de Desempenho (GitHub)
+## 🚀 Projetos em Destaque
 
-Sempre busco manter consistência no meu aprendizado e versionamento de código. Aqui estão as métricas que refletem minha jornada de prática no GitHub:
+Aqui estão alguns dos projetos que reflete minha evolução técnica. *(Sinta-se à vontade para explorar meus repositórios!)*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📂 Nome do Projeto 1</h4>
+      <p>Uma breve descrição do projeto, destacando a principal funcionalidade e o problema que ele resolve.</p>
+      <br>
+      <b>Tecnologias:</b> <code>React</code>, <code>Node.js</code>, <code>MongoDB</code><br>
+      <a href="https://github.com/Jander-Levi/link-projeto">🔍 Ver Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📂 Nome do Projeto 2</h4>
+      <p>Uma breve descrição do projeto, destacando a principal funcionalidade e o problema que ele resolve.</p>
+      <br>
+      <b>Tecnologias:</b> <code>PHP</code>, <code>MySQL</code>, <code>CSS3</code><br>
+      <a href="https://github.com/Jander-Levi/link-projeto">🔍 Ver Repositório</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Dashboard de Desempenho
+
+Acompanhe minha atividade e as linguagens que mais utilizo no GitHub:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jander-Levi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -81,24 +100,24 @@ Sempre busco manter consistência no meu aprendizado e versionamento de código.
 
 ---
 
-## 🏆 Em Aprimoramento Constante
+## 🏆 Aprimoramento Constante
 
-Atualmente, estou me aprofundando nos seguintes tópicos:
-- **Autenticação:** JWT e controle de sessão seguro.
-- **Integração:** Conexão robusta entre React (Front-end) e Node.js (Back-end).
-- **Boas Práticas:** Clean Code, refatoração de código e estruturação eficiente.
+Atualmente, estou focado em dominar:
+- [ ] **Autenticação Avançada:** Implementação de JWT e OAuth2.
+- [ ] **Integrações:** Sincronização robusta entre Front-end e Back-end.
+- [ ] **Qualidade de Código:** Aprofundamento em Clean Code e Design Patterns.
 
 ---
 
-## 📬 Contato Profissional
+## 📬 Vamos nos conectar?
 
-Vamos conversar sobre tecnologia, oportunidades, ou projetos interessantes? Fique à vontade para me contatar:
+Estou aberto a oportunidades, parcerias em projetos open-source ou apenas para trocar conhecimentos sobre tecnologia.
 
 <p align="center">
-  <a href="https://github.com/Jander-Levi">
+  <a href="https://github.com/Jander-Levi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
   </a>
-  <a href="https://www.linkedin.com/in/jander-levi-rodrigues-costa-196402261/">
+  <a href="https://www.linkedin.com/in/jander-levi-rodrigues-costa-196402261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
   </a>
   <a href="mailto:janderlevih@gmail.com">
@@ -106,8 +125,7 @@ Vamos conversar sobre tecnologia, oportunidades, ou projetos interessantes? Fiqu
   </a>
 </p>
 
----
-
 <p align="center">
+  <br>
   <i>"Todo especialista já foi um iniciante que não desistiu. Seguindo na prática e no aprendizado contínuo!"</i> 🚀
 </p>
